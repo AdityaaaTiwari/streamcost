@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-09-24T14:00:00Z",
+  "provider": "AWS",
+  "account_id": "aws-prod-001",
+  "service": "EC2",
+  "region": "ap-south-1",
+  "resource_id": "i-demo001",
+  "usage": 1.0,
+  "usage_unit": "hours",
+  "cost": 0.12,
+  "currency": "USD"
+}
